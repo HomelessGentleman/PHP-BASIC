@@ -4,6 +4,8 @@
 
 <?php
 
+include "includes/voornaam.php";
+
 ?>
 
 </body>
